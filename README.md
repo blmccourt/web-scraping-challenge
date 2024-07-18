@@ -31,9 +31,9 @@ We are now ready to take on a full web-scraping and data analysis project. We’
 6. Export the DataFrame to a CSV file.
 
 ## Folders and Files
-1. **[part_1_mars_news.ipynb](https://)**
+1. **[part_1_mars_news.ipynb](https://github.com/blmccourt/web-scraping-challenge/blob/main/part_1_mars_news.ipynb)**
    - A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
-2. **[part_2_mars_weather.ipynb](https://)**
+2. **[part_2_mars_weather.ipynb](https://github.com/blmccourt/web-scraping-challenge/blob/main/part_2_mars_weather.ipynb)**
    - A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
-3. **[weather_data.csv](https://)**
+3. **[weather_data.csv](https://github.com/blmccourt/web-scraping-challenge/blob/main/weather_data.csv)**
    - Export of dataframe to CSV file.
